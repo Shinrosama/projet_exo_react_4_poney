@@ -1,0 +1,30 @@
+.container{
+    background-color: wheat;
+  
+}
+
+.container{
+    background-size: contain;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDZoSqtEwa2OFnfDAxDho__u5KKcKzXdILbap6Isv_o686LSeqaQmahDfSXwzkZt-5uQ&usqp=CAU);
+    
+}
+
+.articles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img{
+   
+    width: 300px;
+    height: 300px;
+    
+}
+
+.poneyimg1{
+    width: 100%;
+    height: 100%;
+    
+}
+
